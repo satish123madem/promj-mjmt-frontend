@@ -1,0 +1,39 @@
+
+
+.welcome-banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-adv-container{
+    height: 100lvh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-adv-container-img{
+    height: 30%;
+    width: 20%;
+}
+
+.banner-nav-container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    min-height: 50vh;
+    width: 39%;
+    margin: 2%;
+    padding-top: 3%;
+}
+
+.nav-btns{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 20px 1px;
+    padding: 10px;
+}
